@@ -1,7 +1,9 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+
 ## Olá! Eu sou a Mariane Rebeca
 
 - 🔭 Hoje trabalho com desenvolvimento mobile
-- 🌱 Estudando Flutter/Dart
+- 🌱 Estudando Flutter/Dart e UI UX Designer
 
 <div>
   <a href="https://beacons.ai/Marianerebeca">
@@ -14,6 +16,9 @@
   <img align="center" alt="Mari-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mari-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Mari-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="Mari-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="right" alt="Mari-gif" height="120" width="120" src="https://i.picasion.com/pic92/51d22ed6b0bb1710f60cc1b85422de51.gif">
 </div>
 
@@ -30,3 +35,5 @@
   ![Snake animation](https://github.com/Marianerebeca/Marianerebeca/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
