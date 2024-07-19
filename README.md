@@ -13,12 +13,12 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-DevOps" height="30" width="40" src="https://img.icons8.com/?size=100&id=TKKuWmi2jzFO&format=png&color=000000">
-  <img align="center" alt="Mari-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="Mari-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Mari-Cybersecurity" height="30" width="40" src="https://img.icons8.com/?size=100&id=x1wieqREzmXv&format=png&color=000000">
+  <img align="center" alt="Mari-Python" height="30" width="40" src="https://img.icons8.com/?size=100&id=121464&format=png&color=000000">
   <img align="center" alt="Mari-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Mari-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Mari-Postman" height="30" width="40" src="https://www.svgrepo.com/download/354202/postman-icon.svg">
-  <img align="right" alt="Mari-gif" height="120" width="120" src="https://i.picasion.com/pic92/51d22ed6b0bb1710f60cc1b85422de51.gif">
+  <img align="center" alt="Mari-Redes" height="30" width="40" src="https://img.icons8.com/?size=100&id=JiqO0yeG9iLN&format=png&color=000000">
+  <img align="center" alt="Mari-Infra" height="30" width="40" src="https://img.icons8.com/?size=100&id=LZAwoTUNjDn5&format=png&color=000000">
+  
 </div>
 
 ##
