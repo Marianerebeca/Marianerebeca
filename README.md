@@ -2,8 +2,8 @@
 
 ## Olá! Eu sou a Mariane Rebeca
 
-- 🔭 Hoje trabalho com desenvolvimento mobile
-- 🌱 Estudando Flutter/Dart e UI UX Designer
+- 🔭 Atualmente trabalho como Assistente de TI
+- 🌱 Aprofundando em Cloud Computing
 
 <div>
   <a href="https://beacons.ai/Marianerebeca">
