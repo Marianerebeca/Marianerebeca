@@ -3,7 +3,7 @@
 ## Olá! Eu sou a Mariane Rebeca
 
 - 🔭 Atualmente trabalho como Assistente de TI
-- 🌱 Aprofundando em Cloud Computing
+- 🌱 Desenvolvedora Web
 
 <div>
   <a href="https://beacons.ai/Marianerebeca">
