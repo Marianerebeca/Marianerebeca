@@ -2,8 +2,8 @@
 
 ## Olá! Eu sou a Mariane Rebeca
 
-- 🔭 Atualmente trabalho como Assistente de TI
-- 🌱 Desenvolvedora Web
+- Bem Vindo!
+- 🌱 Buscando sempre aprimorar minhas habilidades
 
 <div>
   <a href="https://beacons.ai/Marianerebeca">
@@ -12,12 +12,12 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mari-DevOps" height="30" width="40" src="https://img.icons8.com/?size=100&id=TKKuWmi2jzFO&format=png&color=000000">
-  <img align="center" alt="Mari-Cybersecurity" height="30" width="40" src="https://img.icons8.com/?size=100&id=x1wieqREzmXv&format=png&color=000000">
-  <img align="center" alt="Mari-Python" height="30" width="40" src="https://img.icons8.com/?size=100&id=121464&format=png&color=000000">
+  <img align="center" alt="Mari-HTML" height="30" width="40" src="https://img.icons8.com/?size=100&id=IQzM79ERZ3I8&format=png&color=000000">
+  <img align="center" alt="Mari-CSS" height="30" width="40" src="https://img.icons8.com/?size=100&id=f9udsGWEUT0T&format=png&color=000000">
+  <img align="center" alt="Mari-Javascript" height="30" width="40" src="https://img.icons8.com/?size=100&id=y4vxoLDkQxso&format=png&color=000000">
   <img align="center" alt="Mari-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Mari-Redes" height="30" width="40" src="https://img.icons8.com/?size=100&id=JiqO0yeG9iLN&format=png&color=000000">
-  <img align="center" alt="Mari-Infra" height="30" width="40" src="https://img.icons8.com/?size=100&id=LZAwoTUNjDn5&format=png&color=000000">
+  <img align="center" alt="Mari-Web" height="30" width="40" src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000">
+  <img align="center" alt="Mari-QA" height="30" width="40" src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000">
   
 </div>
 
