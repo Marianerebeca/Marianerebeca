@@ -16,8 +16,9 @@
   <img align="center" alt="Mari-CSS" height="30" width="40" src="https://img.icons8.com/?size=100&id=f9udsGWEUT0T&format=png&color=000000">
   <img align="center" alt="Mari-Javascript" height="30" width="40" src="https://img.icons8.com/?size=100&id=y4vxoLDkQxso&format=png&color=000000">
   <img align="center" alt="Mari-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Mari-Web" height="30" width="40" src="https://img.icons8.com/?size=100&id=119124&format=png&color=000000">
+  <img align="center" alt="Mari-Web" height="30" width="40" src="https://img.icons8.com/?size=100&id=102562&format=png&color=000000">
   <img align="center" alt="Mari-QA" height="30" width="40" src="https://img.icons8.com/?size=100&id=wrcrWIuxc4D6&format=png&color=000000">
+  <img align="center" alt="Mari-SQL" height="30" width="40" src="https://img.icons8.com/?size=100&id=hKw7Mn8TNTuz&format=png&color=000000">
   
 </div>
 
